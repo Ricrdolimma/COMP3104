@@ -1,0 +1,13 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "main.py",
+            "envManager": "ms-python.python:system",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
+    "code-runner.executorMap": {
+        "python": "/Users/ricrdolimma/.venv/bin/python -u"
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
